@@ -1,0 +1,28 @@
+.profile{
+    margin: 0 auto;
+    width: 30%;
+    border: solid 1px black;
+    border-radius: 5px;
+    padding: 20px;
+}
+.description{
+    margin: 0 auto;
+}
+.avatar{
+    display: block;
+   width: 100%;
+}
+.stats{
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+p{
+    text-align: center;
+}
+li{
+    margin-right: 10px;
+}
+span{
+    display: block;
+}

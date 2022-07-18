@@ -1,0 +1,25 @@
+.statList{
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.title{
+    text-align: center;
+}
+
+.label{
+    padding: 10px;
+    text-align: center;
+    border: solid 1px black;
+}
+.percentage{
+    padding: 10px;
+        text-align: center;
+        border: solid 1px black;
+}
+section{
+    width: 70%;
+    margin: 0 auto;
+}

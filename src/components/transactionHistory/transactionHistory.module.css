@@ -1,0 +1,16 @@
+table{
+    width: 50%;
+    margin: 10px auto;
+    border: solid 5px black;
+}
+thead{
+    background-color: aqua;
+    border: solid 2px blue;
+}
+tr{
+    padding: 10px;
+}
+td{
+    text-align: center;
+    background-color: darkturquoise;
+}
